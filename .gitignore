@@ -1,0 +1,37 @@
+# Sub-projects (have their own git repos)
+dexter/
+dexter_trading_agents/
+qlib_market_scanner/
+tty_dexter/
+
+# Dependencies & build artifacts
+.venv/
+node_modules/
+dist/
+*.egg-info/
+
+# Data & outputs
+data/
+outputs/
+mlruns/
+eval_results/
+state/
+Users/
+
+# Env files (contain secrets)
+.env
+
+# Memory & logs (agent-specific, not shared)
+memory/
+
+# OS
+.DS_Store
+*.swp
+
+# Lock files (large)
+uv.lock
+bun.lock
+
+# Misc
+.tmp_repos/
+tmp_qlib_remote/
