@@ -30,7 +30,7 @@ cd tty_dexter && bun run start
 5. Signal Output（每日 Top-K 候選 CSV/JSON）
 **啟動方式**:
 ```bash
-cd qlib_market_scanner && ./run.sh
+cd qlib_market_scanner && uv run ./run.sh
 ```
 **設定檔**: `.env`、`pyproject.toml`
 **輸出**: `data/`（數據）、`outputs/`（報告）、`mlruns/`（MLflow 實驗追蹤）
@@ -50,7 +50,7 @@ cd qlib_market_scanner && ./run.sh
 - 風險管理團隊
 **啟動方式**:
 ```bash
-cd dexter_trading_agents && python main.py
+cd dexter_trading_agents && uv run python main.py
 ```
 **設定檔**: `.env`、`pyproject.toml`
 **輸出**: `eval_results/`（評估結果）、`state/`（狀態）
