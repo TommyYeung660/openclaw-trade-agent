@@ -29,7 +29,6 @@ memory/
 *.swp
 
 # Lock files (large)
-uv.lock
 bun.lock
 
 # Misc
