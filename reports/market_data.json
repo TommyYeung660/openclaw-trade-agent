@@ -1,0 +1,100 @@
+{
+  "indices": {
+    "SPY": {
+      "error": "Invalid API key."
+    },
+    "QQQ": {
+      "error": "Invalid API key."
+    },
+    "DIA": {
+      "error": "Invalid API key."
+    },
+    "IWM": {
+      "error": "Invalid API key."
+    }
+  },
+  "macro": {
+    "SHY": {
+      "error": "Invalid API key."
+    },
+    "IEF": {
+      "error": "Invalid API key."
+    },
+    "TLT": {
+      "error": "Invalid API key."
+    },
+    "UUP": {
+      "error": "Invalid API key."
+    },
+    "USO": {
+      "error": "Invalid API key."
+    },
+    "BNO": {
+      "error": "Invalid API key."
+    },
+    "GLD": {
+      "error": "Invalid API key."
+    }
+  },
+  "sectors": {
+    "XLK": {
+      "error": "Invalid API key."
+    },
+    "XLF": {
+      "error": "Invalid API key."
+    },
+    "XLE": {
+      "error": "Invalid API key."
+    },
+    "XLI": {
+      "error": "Invalid API key."
+    },
+    "XLY": {
+      "error": "Invalid API key."
+    },
+    "XLP": {
+      "error": "Invalid API key."
+    },
+    "XLV": {
+      "error": "Invalid API key."
+    },
+    "XLU": {
+      "error": "Invalid API key."
+    },
+    "XLB": {
+      "error": "Invalid API key."
+    },
+    "XLRE": {
+      "error": "Invalid API key."
+    },
+    "XLC": {
+      "error": "Invalid API key."
+    }
+  },
+  "news": {
+    "error": "Invalid API key."
+  },
+  "earnings": {
+    "2026-03-22": {
+      "error": "Invalid API key."
+    },
+    "2026-03-23": {
+      "error": "Invalid API key."
+    },
+    "2026-03-24": {
+      "error": "Invalid API key."
+    },
+    "2026-03-25": {
+      "error": "Invalid API key."
+    },
+    "2026-03-26": {
+      "error": "Invalid API key."
+    },
+    "2026-03-27": {
+      "error": "Invalid API key."
+    },
+    "2026-03-28": {
+      "error": "Invalid API key."
+    }
+  }
+}
